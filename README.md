@@ -1,4 +1,6 @@
 # Super-Glue3
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Script to 'glue' Jamf Pro, [Super](https://github.com/Macjutsu/super) and optionally a macOS LAPS solution together
 
 Note: The Author of SUPER - Kevin M. White is in the process of completing a new 4.0 branch of his SUPER script. Due to the significant changes this incorporates a new version of my Super-Glue script will be required. I have therefore chosen to create two GitHub repos, this one for version 3 and a [new one for version 4](https://github.com/jelockwood/Super-Glue4/tree/main). Trying to use this script with the new version for of SUPER will result in errors and vice versa.
